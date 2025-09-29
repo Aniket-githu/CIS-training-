@@ -1,0 +1,64 @@
+LINUX  - day 1  
+
+for Acces to server 
+
+
+
+user120 
+pass =  A@dmin@2024
+
+RDP
+172.22.53.205
+
+User120
+Admin@2k25
+
+
+Putty
+srv =  172.22.55.59
+client =   172.22.55.60
+
+
+root 
+Root@2k25
+
+
+
+  
+  {Jitendra}
+LTIMIndtree B1.3         ---   LTIM-bbsr-B1.3
+url --  https://github.com/iamjeetusingh
+  
+
+UNIX 1 JAN 1970   LINUX 17 SEP 1991
+
+
+   THE UNIX DISTRUBUTIONS /DISTROS   {  MOSTLY N USE } 
+AIX by IBM 
+HP-UX by Hewleet=Packard Company 
+Solaris by SUn Microsystem [Oracle ]
+Mac -os
+
+
+
+
+EASY TO INSTALL APPLICATION 
+
+
+
+\\  WHY  ??  
+
+PACKAGE MANAGER   { PACKage mean s/w in wind}
+   - INSTALL
+   -REMOVE 
+   - UPDATE
+   -QUEREY        
+
+   like    ---   ( A--> B)
+
+
+
+SE  ( Security Enhance ) in Linux make it more secure 
+
+
+
